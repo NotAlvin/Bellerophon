@@ -1,0 +1,31 @@
+Ticker,Company,Price,Change,% Change
+BAC,Bank of America Corporation,40.14,-0.36,-0.89
+BBVA,Banco Bilbao Vizcaya Argentaria,10.13,0.15,1.5
+BCS,Barclays PLC,12.12,0.38,3.24
+BMO,Bank Of Montreal,82.97,-0.08,-0.1
+BNPQY,BNP Paribas,35.29,1.11,3.25
+BNS,Bank Nova Scotia Halifax Pfd 3,50.63,-0.2,-0.39
+BSBR,Banco Santander Brasil SA,5.67,0.02,0.35
+C,"Citigroup, Inc.",60.63,-0.33,-0.54
+DB,Deutsche Bank AG,16.61,0.64,4.01
+GS,"Goldman Sachs Group, Inc. (The)",487.88,-2.76,-0.56
+HDB,HDFC Bank Limited,60.95,-0.76,-1.23
+HSBC,"HSBC Holdings, plc.",43.94,0.39,0.9
+IBKR,"Interactive Brokers Group, Inc.",126.06,0.54,0.43
+IBN,ICICI Bank Limited,29.11,-0.49,-1.66
+ING,"ING Group, N.V.",17.93,0.14,0.79
+ITUB,Itau Unibanco Banco Holding SA,6.74,0.11,1.66
+JPM,JP Morgan Chase & Co.,217.63,-1.7,-0.78
+MS,Morgan Stanley,99.56,-0.59,-0.59
+MUFG,"Mitsubishi UFJ Financial Group,",10.39,-0.03,-0.29
+NU,Nu Holdings Ltd.,14.34,0.1,0.7
+NWG,NatWest Group plc,9.04,0.15,1.69
+PNC,"PNC Financial Services Group, I",180.95,-1.41,-0.77
+RY,Royal Bank Of Canada,121.49,-0.59,-0.48
+SCHW,Charles Schwab Corporation (The,63.69,-0.21,-0.33
+SMFG,Sumitomo Mitsui Financial Group,13.07,0.09,0.69
+TFC,Truist Financial Corporation,43.15,-0.47,-1.08
+TD,Toronto Dominion Bank (The),60.52,1.35,2.28
+UBS,UBS Group AG Registered,29.36,-0.08,-0.27
+USB,U.S. Bancorp,45.54,-0.52,-1.13
+WFC,Wells Fargo & Company,56.86,-1.26,-2.17
