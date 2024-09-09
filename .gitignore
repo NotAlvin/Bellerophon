@@ -1,4 +1,4 @@
-./results/*
-./data/*
+*.json
+*.csv
 .env
 *connect_to_db.sh
